@@ -41,7 +41,3 @@ The dashboard helps stakeholders make **data-driven decisions** and identify opp
 ## 📌 Author
 
 Developed by *Mohamed Saad Abdelghany Aboutaleb* – Data Analyst
-
----
-
-تحب أكتبلك نسخة تانية قصيرة جدًا (mini-README) تنفع لو مش عايز تفاصيل كتير، بس تبقى شكلها مرتب واحترافي؟
